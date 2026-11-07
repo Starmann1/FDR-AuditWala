@@ -6,7 +6,8 @@
 > *"This is not an FDR database. It is an AI-powered FDR lifecycle intelligence and decision-support platform."*
 
 **Live Production Deployment:** [https://web-beta-snowy-47.vercel.app](https://web-beta-snowy-47.vercel.app)  
-**GitHub Repository:** [https://github.com/KiruthickSM/fdr-auditwala](https://github.com/KiruthickSM/fdr-auditwala)
+**GitHub Repository:** [https://github.com/Starmann1/FDR-AuditWala](https://github.com/Starmann1/FDR-AuditWala)  
+**Full System Specification:** [docs/ARCHITECTURE_SPECIFICATION.md](docs/ARCHITECTURE_SPECIFICATION.md)
 
 ---
 
